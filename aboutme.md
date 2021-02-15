@@ -7,6 +7,7 @@ subtitle: Work in progress
     <img width="460" height="300" src="/assets/img/justin_thors_well.png">
 </div>
 
+
 Hi! I see you've found my new website, it's still a work in progress, much like me!
 
 ### About me
