@@ -2,10 +2,8 @@
 layout: page
 title: About me
 subtitle: Work in progress
+cover-img: ["/assets/img/justin_thors_well.jpg"]
 ---
-<div>
-    <img width="460" height="460" style="margin:auto;" src="/assets/img/justin_thors_well.jpg">
-</div>
 
 Hi! I see you've found my new website, it's still a work in progress, much like me!
 
