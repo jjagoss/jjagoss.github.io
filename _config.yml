@@ -16,8 +16,11 @@ author: Justin Goss
 navbar-links:
   About Me: "aboutme"
   Writing:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Meditation: "meditation"
+    - Books: "books"
+    - Data Analysis: "analytics"
+    - Policy Analysis: "policy"
+
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
