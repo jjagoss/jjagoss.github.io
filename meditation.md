@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Meditation
+title: Philosophy
 ---
 
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
-  {% for post in posts %}
+  {% for post in site.tags.philosophy %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
