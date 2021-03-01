@@ -2,13 +2,13 @@
 layout: post
 title: Abolish the State Senate
 subtitle: Part 1
-cover-img: /assets/img/evicted.jpg
-thumbnail-img: /assets/img/evicted.jpg
-share-img: /assets/img/evicted.jpg
+cover-img: /assets/img/const_convention.jpeg
+thumbnail-img: /assets/img/const_convention.jpeg
+share-img: /assets/img/const_convention.jpeg
 tags: [policy]
 ---
 
-_Republished from July 2016_
+_Republished from July 2020
 
 California’s state government strongly resembles the structure of the United States Federal Government. It has three coequal branches: executive, legislature, and judiciary; it has an active bureaucracy; and its legislature is bicameral consisting of a lower house (The Assembly) and and upper house (The Senate). However, unlike the United States Senate, which was famously constructed at the Republic’s founding as part of a great compromise, no such historical explanation exists for California and its bicameral system serves little to no modern day purpose.
 
@@ -22,7 +22,7 @@ I am not a small government libertarian by any means, nor am I resentful of hard
 
 ## Where Bicameral Legislatures came from in the U.S.
 
-![The United States Constitutional Covnention](/assets/img/const_convention.jpg)
+![The United States Constitutional Covnention](/assets/img/const_convention.jpeg)
 
 At the U.S. Constitutional Convention in 1787 the delegates met to draft the Articles of Confederation, the relatively weakly structured Federal Government that would be heavily amended in 1789. In deciding the structure of the legislature, the most powerful and influential branch, the delegates could not agree on how states ought to be represented. Delegates from Virginia, representing the interest of the larger southern states, put forward a plan whereby states would receive a number of representatives proportional to their populations.
 
@@ -48,7 +48,7 @@ Not so at the state level.
 
 ## Having two Houses is Costly for California
 
-![The California State Senate](/assets/img/const_convention.jpg)
+![The California State Senate](/assets/img/const_convention.png)
 
 Between December 2018 and February 2019 the California State Senate spent a little under $27 million as its operating budget. I will readily concede, that’s small potatoes compared to the $202 billion budget the state plans to operate in total this year, but it’s not nothing especially given the fiscal crunch the state and its municipalities are about to face as a result of COVID-19. Even before COVID, the state had long been dealing with debt from unfunded liabilities due to pension agreements and healthcare payments to retired state workers. The state’s Legislative Analyst’s Office [estimated]('https://lao.ca.gov/Publications/Report/4106') the total unfunded debt in 2018 was around $160 billion. $27 million is a handful of dirt compared to that financial hole, but it could end up mattering if the state eventually has to choose between paying down the debt or making cuts to things like public higher education or discretionary social services.
 
